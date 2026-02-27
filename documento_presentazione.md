@@ -23,13 +23,17 @@ _ _ Dal Forno _ _
 - come si prevede il futuro
 - commissioni etiche per la gestione strumento con aggancio alla questione etica in seguito
 
-Il termine Intelligenza Artificiale (IA) non ha una definizione univoca e universalmente accettata, ma viene generalmente inteso come la proprietà di una macchina di imitare o simulare, in tutto o in parte, l'intelligenza biologica. La sua nascita ufficiale risale al 1955, quando John McCarthy e altri ricercatori ipotizzarono che ogni aspetto dell'apprendimento o dell'intelligenza potesse essere descritto così precisamente da poter costruire una macchina capace di simularlo.
+Il termine Intelligenza Artificiale (IA) non ha una definizione univoca e universalmente accettata, ma viene generalmente inteso come la proprietà di una macchina di imitare o simulare, in tutto o in parte, l'intelligenza biologica. 
+
+La sua nascita ufficiale risale al 1955, quando John McCarthy e altri ricercatori ipotizzarono che ogni aspetto dell'apprendimento o dell'intelligenza potesse essere descritto così precisamente da poter costruire una macchina capace di simularlo.
 
 ---
 
 # Dilemma etico: come l’IA condiziona e modifica le relazioni
 
-Come detto nell’introduzione, ci sarebbero molti argomenti da trattare, ma ci concentreremo solamente nel come l’intelligenza artificiale modifichi e fossilizzi le relazioni interpersonali. Riporteremo a piè di pagina le fonti alle quali abbiamo attinto per formulare le nostre conclusioni e i nostri ragionamenti.
+Come detto nell’introduzione, ci sarebbero molti argomenti da trattare, ma ci concentreremo solamente nel come l’intelligenza artificiale modifichi e fossilizzi le relazioni interpersonali. 
+
+Riporteremo a piè di pagina le fonti alle quali abbiamo attinto per formulare le nostre conclusioni e i nostri ragionamenti.
 
 ---
 
@@ -39,11 +43,19 @@ Le relazioni interpersonali sono alla base della società, e la società è la b
 
 Pensare concretamente all’esistenza di una figura del genere nella nostra società, fino a poco tempo fa sarebbe stato impossibile, ma con l’approdo di internet nella vita delle persone, si sono iniziati a vedere i primi effetti di un’alienazione sociale. 
 
-Gli individui affetti da questo fenomeno psicosociale vengono chiamati Hikikomori, e i numeri degli stessi, cresciuti negli anni a dismisura, hanno iniziato a preoccupare. “Il 2,1% del campione attribuisce a sé stesso la definizione di Hikikomori. Proiettando il dato sulla popolazione studentesca* 15-19enne a livello nazionale, si può quindi stimare che circa 54.000 studenti italiani di scuola superiore si identifichino in una situazione di “ritiro sociale”, riprendendo le parole di Sabrina Molinaro, ricercatrice del Cnr-Ifc, riportate in “Il ritiro sociale volontario tra i giovani in Italia | Consiglio Nazionale delle Ricerche”.
+### Hikikomori
+
+Gli individui affetti da questo fenomeno psicosociale vengono chiamati Hikikomori, e i numeri degli stessi, cresciuti negli anni a dismisura, hanno iniziato a preoccupare. 
+
+> “Il 2,1% del campione attribuisce a sé stesso la definizione di Hikikomori. Proiettando il dato sulla popolazione studentesca* 15-19enne a livello nazionale, si può quindi stimare che circa 54.000 studenti italiani di scuola superiore si identifichino in una situazione di “ritiro sociale”, riprendendo le parole di Sabrina Molinaro, ricercatrice del Cnr-Ifc, riportate in “Il ritiro sociale volontario tra i giovani in Italia | Consiglio Nazionale delle Ricerche”.
 
 Quanto viene fatto per il reinserimento sociale di queste persone, almeno in Italia, è decisamente poco: le campagne mediatiche evitano il problema e la “moda” dell’informazione, almeno per ora, lascia spenti i riflettori su questa piaga sociale.
 
 Solo recentemente è comparsa qualche campagna ministeriale sui principali canali televisivi, che si preoccupa di lanciare un timido messaggio in merito a questa questione, ma per il resto è silenzio più totale.
+
+---
+
+### L’introduzione dei chatbot AI
 
 La situazione è già grave di per sé, ma come se non bastasse, sono stati introdotti nel mercato i chatbot AI.
 
@@ -57,6 +69,10 @@ Questo teatrino generato e modellato in funzione del consumatore è studiato nei
 
 Il fine ultimo sono sempre e solo i soldi. 
 
+---
+
+### Relazione umana vs relazione con chatbot
+
 Ma in realtà, pensandoci, tutto questo è puramente logico ed intuitivo: chi mai vorrebbe un dialogo con un chatbot con limiti, spesso svogliato o distratto, stanco, che non capisce, che giudica, e fa notare dove si commettono errori, anche in modo sgarbato? O anzi, lanciando una provocazione ancora più acuminata: chi preferirebbe una persona, che per natura possiede tutti questi limiti, quando posso avere un llm che la imita in tutto e per tutto ed in più che finge di conoscermi, apparentemente migliore, e per giunta 24 ore su 24?
 
 Pensare che le due cose siano la stessa cosa, o il chatbot la versione migliorata della persona, o ancora peggio che le interazioni che si instaurano nei due scenari si equivalgano, è indicibile. 
@@ -67,13 +83,25 @@ Per parlare ad un chatbot, invece, ci si può rivolgere come si vuole, insultand
 
 Si tratta quindi di una relazione liscia, facile, in più che appaga, poiché ho sempre ragione in qualche modo e per di più sono molto intelligente. 
 
+---
+
+### Bias di conferma
+
 Approfondiamo questa cosa: tutti bene o male cerchiamo di attribuirci queste due qualità nella vita, e se qualcuno lo conferma in un modo o nell’altro instauriamo con quest’ultimo un rapporto privilegiato, anche se, in questo caso, puramente unilaterale.
 
 Si è propensi ad instaurare questo rapporto preferenziale poiché siamo continuamente in cerca di qualcuno che la pensi come noi. Questa dipendenza prende il nome di bias di conferma, ed è proprio questo il cardine sul quale tutte le conversazioni con llm ruotano.
 
+---
+
+### Il rischio per le persone fragili
+
 Questo è un grave problema, perché tornando agli hikikomori di prima, che si nascondono e si isolano dalla società per fuggire dalla difficoltà che la vita porta con sé, l’intelligenza artificiale, con queste caratteristiche propriamente utopiche, può rappresentare la loro droga e la loro causa emarginazione più totale.
 
 Ma più delle persone che già sono affette da questa sindrome, quello che dovrebbe preoccupare ancora di più sono tutte le persone fragili che possono incombere in questo “paese dei balocchi”. Cercando una provocazione più marcata, in realtà tutti dovremmo avere timore di incappare in questo baratro sociale: basti pensare che un periodo di crisi nella vita può mettere nella situazione di rientrare nella categoria di persone fragili, poiché lasciarsi andare ed abusare del supporto vacuo che l’intelligenza artificiale offre è un diavolo tentatore.
+
+---
+
+### Il riferimento al film “Lei”
 
 Prendendo in esame il film “Lei” del 2013, si può notare che il mondo descritto e che allora sembrava pura fantascienza, ora non è più una realtà così remota. Il film infatti tratta di un mondo distopico dove l’IA diventa entità presente e viva nella vita dell’uomo, seduttrice e perfetta. E’ proprio questa perfezione che induce il protagonista ad abbandonarsi della stessa, finendo per innamorarsi di un ente senza corporeità, dando vita a situazioni imbarazzanti e divertenti, ma che fanno riflettere, inducendolo, infine, ad una sofferenza emotiva senza eguali nel momento in cui scopre che il principio di unicità che lega l’uomo alla macchina è strettamente legato alla natura della persona e non all’algoritmo.
 
@@ -98,7 +126,7 @@ Prendendo in esame il film “Lei” del 2013, si può notare che il mondo descr
 
 # Citazioni
 
-> “E’ la capacità di un  
+> **“E’ la capacità di un  
 > individuo di riconoscere le  
 > proprie emozioni e quelle  
 > degli altri, di saperle  
@@ -110,7 +138,7 @@ Prendendo in esame il film “Lei” del 2013, si può notare che il mondo descr
 > contesto, così da  
 > ricavare un senso di  
 > efficacia dagli scambi  
-> interattivi”  
+> interattivi”**  
 > (Saarni, 1999).
 
 ---
